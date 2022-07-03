@@ -10,5 +10,3 @@ Map (simple map for species localities)
 map with pie chart
 
 Raw script(need to be updated)-notif march 2022
-
-
